@@ -1,5 +1,5 @@
 name: 订阅查询
-description: 查看机场订阅流量内容 通过参数支持不同订阅
+description: 提供查看机场订阅流量 使用参数@添加不同机场订阅
 
 compat_arguments:
   URL:
